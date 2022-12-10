@@ -1,0 +1,10 @@
+### Menu
+=> ../index.gmi Home
+
+# Flightlog
+Here I will write small logs and thing that just come to me quickly 
+
+## 2022-12-10T03:50+0100
+Well. I just discovered gemini protocol 2 days ago and I sort of fell in love with the process for now. Not sure where I'll get with this capsule, maybe I will do some other capsules as well. Indeed, I really apprecieate RP and I'm already thinking about it. Why not bringing some of my RPeist friends and start something on gemini ? I saw there are some, I'm part of certain and some are quite interesting. But yeah, just a random idea I got.
+
+I think I'm gonna get lost a lot here and there on many different capsules. I hope I'll succeed to create a good one too, something pleasant to visit and spend some time on. For now I'll just finish setting up the home and, yeah. Let's jump on a very fresh adventure !
