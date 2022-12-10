@@ -1,0 +1,14 @@
+### Menu
+=> ../index.gmi ↩ Home
+
+# Gemroll
+This list is kind of my bookmark list, I will store capsules I find cool, interesting, usefull or whatsoever :)
+
+## Tildes
+=> gemini://tildeverse.org/ Tildeverse
+=> gemini://tilde.team/ The tilde I'm active in
+=> gemini://cosmic.voyage/ Nice sci-fi RP that I participate in
+
+## Capsules I like
+=> gemini://gemini.smallweb.space/ Gritty's capsule — Very interesting plenty of things to read !
+=> gemini://nytpu.com/ Nytpu's capsule — Especially for his logs, plus I like its look 
