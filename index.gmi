@@ -1,7 +1,29 @@
-# Gwenillia
+```ASCII art: the word "Welcome" in a big font
+__          __  _                          
+\ \        / / | |                         
+ \ \  /\  / /__| | ___ ___  _ __ ___   ___ 
+  \ \/  \/ / _ \ |/ __/ _ \| '_ ` _ \ / _ \
+   \  /\  /  __/ | (_| (_) | | | | | |  __/
+    \/  \/ \___|_|\___\___/|_| |_| |_|\___|
+```
 
-## whomai
+# Gwenillia's gemlog
+Welcome on my gemini website. A kind of gemlog where you can check many different things from poetry (mainly in french) to flight log and stuff.
 
-Gwen, a french web developer living in Norway. I love with high tech, video games and languages. I'm also a photo model.
+## Whomai
+I'm Gwen (She/they), a french woman web developer living in Norway. I love high tech, video games and languages. I'm also a photo model.
+I'm getting into the small web and discovering it slowly. I heard about the gemini protocol and then immediately found tildeverse.org. So here I am.
 
-/!\ WIP /!\
+## Logs
+=> lists/gemlogs.gmi My gemlog - Long writings
+=> logs/flightlog.gmi My flight log - Short writings
+
+## Contacts
+=> https://tilde.chat/ (https) Tilde chat irc as gwenillia 
+=> https://tilde.zone/@gwenillia (https) Mastodon: @gwenillia@tilde.zone
+=> mailto:gwenillia@tilde.team Mail: gwenillia (at) tilde.team
+
+## More
+=> lists/gemrolls.gmi Gemroll - My bookmark list
+=> lists/writings.gmi Some of my random writings
+
