@@ -5,3 +5,4 @@
 Here you can find my "long enough to be here" writings. Could be about anything I hope you'll enjoy the moment and have a good time here.
 
 ## 2022
+=> ../logs/2022-12-12 [2022-12-12] How do I control my digital life as a digital native (Gen Z) and web developer
