@@ -1,5 +1,5 @@
 ### Menu
-=> ../index.gmi Home
+=> ../index.gmi  ↩ Home
 
 # Flightlog
 Here I will write small logs and thing that just come to me quickly 

@@ -18,12 +18,11 @@ I'm getting into the small web and discovering it slowly. I heard about the gemi
 => lists/gemlogs.gmi My gemlog - Long writings
 => logs/flightlog.gmi My flight log - Short writings
 
+## More
+=> lists/writings.gmi Some of my random writings
+=> lists/gemrolls.gmi Gemroll - My bookmark list
+
 ## Contacts
 => https://tilde.chat/ (https) Tilde chat irc as gwenillia 
 => https://tilde.zone/@gwenillia (https) Mastodon: @gwenillia@tilde.zone
 => mailto:gwenillia@tilde.team Mail: gwenillia (at) tilde.team
-
-## More
-=> lists/gemrolls.gmi Gemroll - My bookmark list
-=> lists/writings.gmi Some of my random writings
-

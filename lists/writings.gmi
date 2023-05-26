@@ -1,5 +1,5 @@
-### Menu
-=> ../index.gmi Home
-
 # Writings
-You will find random writings I did with tags to make sure about what it is. Some Poems, short literary composition, creative things basically.
+=> ../index.gmi  ↩ Home
+
+## Poems
+=> ../writings/2022-12-19-Mi-Kreis-Mian-Vivon.gmi 2022-12-19 — Mi Kreis Mian Vivon

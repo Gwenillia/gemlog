@@ -1,47 +1,52 @@
 ### Menu
-=> ../index.gmi Home
+=> ../index.gmi  ↩ Home
+=> ../lists/gemlogs.gmi ↩  Gemlogs
+
+----- Approximate time of reading: 5:39 -----
+
+I'll be talking here about things I can think of about how I control my online life. Of course, it will probably be missing some things. But yeah, I'm mainly centered on my email management because I really like it. I wish you a good read.
 
 # How do I control my online life as a digital native (Gen Z) and web developer
 ## What do I call online life
-Well basically, almost everything that is on online, apps, web, social media, video games, arts. As long as it is connected to the world (or part of it). 
+Well, basically, almost everything that is online, apps, web, social media, video games, arts—as long as it is connected to the world (or part of it)—
 
-On the other end, I don't consider usage of technologies part of it as it represents too much things to me. I was born in the late 90s with a PC at the age of 5... Therefore I grew up with tech, digital things and it is basically my life. But "online life" for me represents what is connected online, kinda obvious I may say.
+On the other hand, I don't consider technology's use to be a part of it because it represents too many things to me. I was born in the late 1990s and had my first computer at the age of five. Therefore, I grew up with tech and digital things, and it is basically my life. But "online life" represents to me what is connected online, which may seem obvious.
 
-Also my "rules" seems a bit too much sometimes, but it is what I needed to avoid being 100% of my time dependent or addict. I found it perfect to me and indeed, it helped me a lot to keep my braincells alive since I applied it couple years ago. I still enjoy surfing a lot. I do not even try to leave the web or my presence on social medias, that I still use a lot. I just needed to control my way of consuming it.
+Also, my "rules" seem a bit too much sometimes, but they are what I needed to avoid becoming 100% time-dependent or addicted. I found it perfect for me, and indeed, it has helped me a lot to keep my brain cells alive since I applied it a couple years ago. I still enjoy surfing a lot. I do not even try to leave the web or my presence on social medias, which I still use a lot. I just needed to control my way of consuming it.
 
-## Controlling over being controlled
-First thing for me has been to put a real boundary between real life, and online life. Which means I never or very rarely receive notifications. I always make sure that, I chose to open an app or my phone rather than it to call me. So I always block notifications everywhere.
+## Having control over being controlled
+The first thing for me has been to put a real boundary between real life and online life, which means I never or very rarely receive notifications. I always make sure that I choose to open an app or my phone rather than for it to call me. So I always block notifications everywhere.
 
-Also, I have 0 apps on my homescreen in my phone, 0 apps on my desktop on all of my computers. 0 apps in the taskbar / docks, I just let the apps in their folders and search them via a search manager to open them. Meaning I'm not tempted to open any apps or software if I don't want too.
+Also, I have 0 apps on my homescreen on my phone and 0 apps on my desktop on all of my computers. I have no apps in the taskbar or dock; I just let the apps be in their folders and search for them via a search manager to open them, meaning I'm not tempted to open any apps or software if I don't want to.
 
-In the same mood I have 0 bookmarks on my browsers I prefer to write down the URL somewhere on my notes, I usually have 1 or 2 only because I need them for a moment. I prefer to type the website I want, not because I would be tempter to click on it, but because I hate the bookmarks bars :D. Although it helps so I don't click on any shit I can lose my time on. Oh yeah, because... I'm still surfing a lot on social medias, games, reddit, 9gag, and many different time consuming apps. So if I don't keep them somewhere on my browser in a huge bar, I won't click on them.
+In the same mood, I have 0 bookmarks on my browsers. I prefer to write down the URL somewhere on my notes, I usually only have 1 or 2 because I need them for a moment. I prefer to type in the URL of the website I want, not because I'm tempted to click on it, but because I despise bookmarks bars.Although it helps, I don't click on anything I can waste my time on. Oh yeah, because... I'm still surfing a lot on social medias, games, Reddit, 9GAG, and many other time-consuming apps. So if I don't keep them somewhere on my browser in a huge bar, I won't click on them.
 
 ## Mails
-### Notifs: 
-I receive just a few notifs, the most important ones. All others are silent thanks to my multiple adress management ahah. I still don't open my emails as soon as I see a notification. I can live in peace with a notification on my screen. I just let them active in case I wait for an important mail or something important happens. 
+### Notifs
+I receive just a few notifications, the most important ones. All others are silent, thanks to my multiple address management. I still don't open my emails as soon as I see a notification. I can live in peace with a notification on my screen. I just leave them on in case I get an important email or something important happens.
 
-### Having hundreds of mail aliases and few main mails: 
-I keep my mail organised. I have one specific email alias for each website or apps I use. Then the mails arrive automatically to some "main" mail boxes classified by themes. So, I only have 2 mail boxes connected on my phone with notifications, the more important ones. The others are connected but remain silent. 
+### Having hundreds of mail aliases and few main mails
+I keep my mail organized. I have one specific email alias for each website or app I use. Then the mails arrive automatically in some "main" mail boxes classified by themes. So I only have two mail boxes with notifications connected to my phone, and they are the most important ones. The others are connected but remain silent.
 
-Of course, I use different solutions to automatically create my aliases, otherwise it would be a gigantic pain. Meaning I only have access to some themes mail boxes like "shopping", "finance", "social media", you basically can create almost any themes you need. I obviously don't create a mail box for each website, but just a specific alias.
+Of course, I use different solutions to automatically create my aliases, otherwise, it would be a gigantic pain. That is, while I only have access to a few theme mailboxes, such as "shopping," "finance," and "social media," you can create almost any theme you need. I obviously don't create a mail box for each website, but just a specific alias.
 
-### Keeping mail boxes empty:
-Even if I can live in peace without checking my mails, I want to keep the notification but I don't want thousands of mails a day. So basically, I never subscribe to any newsletter and make sure that if I receive any newsletter, I unsubscribe instantly. I prefer to use RSS or directly check news or updates by myself.
+### Keeping mail boxes empty
+Even if I can live in peace without checking my mails, I want to keep the notification, but I don't want thousands of mails a day. So basically, I never subscribe to any newsletter and make sure that if I receive any newsletter, I unsubscribe instantly. I prefer to use RSS or check for news or updates directly.
 
 ## Social medias
-I'm on many social medias... Too much to be honest. Some are very mainstream others are not, but yeah, I manage them all the same ways. 
+I'm active on several social media platforms... Too much to be honest. Some are very mainstream, others are not, but yeah, I manage them all the same way.
 
-Almost no notifications anywhere, I'm always checking my most important social medias so I know if a notif appeared. I'm very active... I sometimes turn the notifs on for some reason, when I follow an interesting thing and want to keep updated in the very moment for example on twitter. I also have some notifs on on specific groups from specific social media, where I would basically never go back during months without the notifs. 
-
+I almost never get notifications anywhere, but I'm constantly checking my most important social media accounts to see if one appears.I'm very active, and to be honest, I think I have to lower my usage... I occasionally enable notifications for various reasons, such as when I follow something interesting and want to stay up-to-date in real time, such as on Twitter.I also have some notifs on on specific groups from specific social media, where I would basically never go back during months without the notifs. 
 
 ## Messaging apps
-I don't use that much of those but same, no notifications. People can contact me by GSM if they need me, otherwise they can wait. I sometimes had notifs on groups but find it useless. I'm this type of person that will not reply or open the app even if it shows 9999+ notifications xD
+I don't use that much of those but same, no notifications. People can contact me by GSM if they need me, otherwise, they can wait. I sometimes had notifs on groups but find it useless. I'm the type of person who won't respond or open the app even if there are 9999+ notifications.
 
-Exception for Discord, I use it a lot... h24 basically, but I'm in not disturb or invisble mode. And I almost check every notifications... Still don't manage to get away from it yet. And I use it also for RP games which is very time consuming, so yeah for me it is a problem. 
+Discord is an exception: I use it very much, but I'm in "do not disturb" or "invisible" mode.And I almost check every notification... I still haven't managed to get away from it yet. And I also use it for role-playing games, which take a lot of time, so it's a problem for me.
 
 ## Gaming
-Well this is a hard part to me, probably the hardest part to apply. I'm a gamer, too much of a gamer. So yeah, I apply some things to control my addiction, but ... yeah, not that much to say here.
+Well, this is a hard part for me—probably the hardest part to apply. I'm a gamer—too much of a gamer. So yeah, I apply some things to control my addiction, but... yeah, not that much to say here.
 
-Except I have no notifs on any games, mobile or pc. Otherwise I fell down in the abyss for hours. Even if I wait for a huge event or something big will happen in the game, I refuse to allow any notifications on any of my games. Better for me to miss something that playing 10 hours straight because of a notification.
+Except I have no notifications for any games on my phone or computers. Otherwise, I fell down in the abyss for hours. Even if I wait for a huge event or something big to happen in the game, I refuse to allow any notifications on any of my games. It's better for me to miss something than play for 10 hours straight because of a notification.
 
-I stopped playing time consuming games where you can't have a real life aside from it. I'm always on invisible or do not disturb in online games so no sound if someone messages me.
+I stopped playing time-consuming games where you couldn't have a real life aside from them. I'm always on "invisible" or "do not disturb" in online games, so there's no sound if someone messages me.
+
